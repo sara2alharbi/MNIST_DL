@@ -5,10 +5,15 @@ Shaden Alomani
 Ali Alsayed
 
 MNIST is a dataset consisting of handwritten digits, widely used for training and testing machine learning models, particularly for image classification tasks. In this project we do diffrent models :
+
 Baseline(Logistic Regression) :91.8%
+
 Decision Tree :87.2%
+
 Random Forest :96.6%
+
 Support Vector Machine :96.3%
+
 Ensemble learning :96.7%
 
 Key Findings:
