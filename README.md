@@ -1,7 +1,10 @@
 # MNIST_DL
 This project was created in SDAIA T5 bootcamp with:
+
 Hams Almalki
+
 Shaden Alomani
+
 Ali Alsayed
 
 MNIST is a dataset consisting of handwritten digits, widely used for training and testing machine learning models, particularly for image classification tasks. In this project we do diffrent models :
